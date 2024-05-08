@@ -1,0 +1,31 @@
+.dashboard-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.dashboard-container h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.dashboard-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.dashboard-container li {
+  margin-bottom: 10px;
+}
+
+.dashboard-container li p {
+  font-weight: bold;
+}
+
+.dashboard-container li ul {
+  margin-top: 5px;
+}
+
+.dashboard-container li ul li {
+  margin-bottom: 5px;
+}
